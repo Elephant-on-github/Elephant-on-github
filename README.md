@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#I make cool projects
+#### I make cool projects
 
 - 🔭 I’m currently working on a website about maths and a stylish dashboard
 - 🌱 I’m currently learning Rust, Gleam and Vue
