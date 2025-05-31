@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-I make cool projects
-
-I have developed Thermal More integral components 
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1078644?style=for-the-badge&logo=curseforge&color=%23F16436)](https://www.curseforge.com/minecraft/mc-mods/thermal-more-integral-components)
+#I make cool projects
 
 - 🔭 I’m currently working on a website about maths and a stylish dashboard
 - 🌱 I’m currently learning Rust, Gleam and Vue
