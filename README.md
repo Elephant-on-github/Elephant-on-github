@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I make cool projects
+
+I have Developed Thermal More integral components [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1078644?style=for-the-badge&logo=curseforge&color=%23F16436)](https://www.curseforge.com/minecraft/mc-mods/thermal-more-integral-components)
+
 <!--
 **Elephant-on-github/Elephant-on-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
